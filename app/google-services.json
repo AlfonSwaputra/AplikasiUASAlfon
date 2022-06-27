@@ -1,33 +1,62 @@
 {
   "project_info": {
-    "project_number": "623816757525",
-    "project_id": "aplikasi-uas-alfon",
-    "storage_bucket": "aplikasi-uas-alfon.appspot.com"
+    "project_number": "377392542202",
+    "project_id": "simas-alfon-eaacb",
+    "storage_bucket": "simas-alfon-eaacb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:623816757525:android:a00a43b3875a6aed3c991c",
+        "mobilesdk_app_id": "1:377392542202:android:a42bd784cab1da097db443",
         "android_client_info": {
-          "package_name": "com.alfonswaputra.aplikasiuasalfon"
+          "package_name": "com.alfonswaputra.alfon_simas"
         }
       },
       "oauth_client": [
         {
-          "client_id": "623816757525-h916q275ghd4dvgmeup22jl69jra57p0.apps.googleusercontent.com",
+          "client_id": "377392542202-adtv4ecidrv15p53osg6k0bicqrq5r2s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBIcaNk2TWP4n27At38ohy26K1p7to5A1M"
+          "current_key": "AIzaSyB0rsxt_q7DRZylhf7B_82Re1OHdzWfQ34"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "623816757525-h916q275ghd4dvgmeup22jl69jra57p0.apps.googleusercontent.com",
+              "client_id": "377392542202-adtv4ecidrv15p53osg6k0bicqrq5r2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377392542202:android:662ea6af820cde847db443",
+        "android_client_info": {
+          "package_name": "com.alfonswaputra.aplikasiuasalfon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377392542202-adtv4ecidrv15p53osg6k0bicqrq5r2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0rsxt_q7DRZylhf7B_82Re1OHdzWfQ34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377392542202-adtv4ecidrv15p53osg6k0bicqrq5r2s.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
