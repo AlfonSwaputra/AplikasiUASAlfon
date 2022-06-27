@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623816757525",
+    "project_id": "aplikasi-uas-alfon",
+    "storage_bucket": "aplikasi-uas-alfon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623816757525:android:a00a43b3875a6aed3c991c",
+        "android_client_info": {
+          "package_name": "com.alfonswaputra.aplikasiuasalfon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623816757525-h916q275ghd4dvgmeup22jl69jra57p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIcaNk2TWP4n27At38ohy26K1p7to5A1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623816757525-h916q275ghd4dvgmeup22jl69jra57p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

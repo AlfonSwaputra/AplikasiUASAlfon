@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/logo_blank"
+        android:layout_width="370dp"
+        android:layout_height="340dp"
+        android:layout_centerInParent="true"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/logo_app"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/logo" />
+
+        <EditText
+            android:id="@+id/et_number_phone"
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_below="@id/logo_app"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="24dp"
+            android:gravity="center"
+            android:hint="Phone Number"
+            android:textColor="@color/black"
+            android:textColorHint="@color/grey" />
+
+        <Button
+            android:id="@+id/et_login_phone"
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_below="@+id/et_number_phone"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="24dp"
+            android:background="@color/white"
+            android:gravity="center"
+            android:hint="Login by Phone"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:id="@+id/et_sign_in"
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_below="@+id/et_login_phone"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="24dp"
+            android:background="@color/white"
+            android:gravity="center"
+            android:hint="Sign in"
+            android:textColor="@color/black"
+            android:textColorHint="@color/grey" />
+
+    </RelativeLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Login"/>
+
+</RelativeLayout>
