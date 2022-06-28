@@ -5,6 +5,12 @@
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/AplikasiUASAlfon/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AplikasiUASAlfon/app/src/main/res/layout/activity_splash.xml" value="0.16847826086956522" />
+        <entry key="app/src/main/res/layout/category_item.xml" value="0.22569444444444445" />
+        <entry key="app/src/main/res/layout/fragment_detail_survey.xml" value="0.26666666666666666" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.26666666666666666" />
+        <entry key="app/src/main/res/layout/fragment_menu.xml" value="0.22569444444444445" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.25052083333333336" />
+        <entry key="app/src/main/res/layout/fragment_survey.xml" value="0.22569444444444445" />
       </map>
     </option>
   </component>

@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">Aplikasi UAS Alfon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_here">Login</string>
+    <string name="input_your_email">Input your email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_here">Daftar Akun</string>
+    <string name="login">Login ke Akun Anda</string>
+    <string name="category_item">Category Item</string>
+    <string name="welcome">Welcome</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="district">Kabupaten</string>
+    <string name="sub_district">Kecamatan</string>
+    <string name="ward">Kelurahan</string>
+    <string name="village">Desa</string>
+    <string name="start_survey">Mulai Survey</string>
+    <string name="input_your_password">Input your password</string>
+
+    <string-array name="categories">
+        <item>Tipografi</item>
+        <item>Info Warga</item>
+        <item>Sarana Prasarana</item>
+        <item>Pendidikan</item>
+        <item>Kesehatan</item>
+        <item>Keagamaan</item>
+        <item>Disabilitas</item>
+        <item>Olahraga</item>
+        <item>Transportasi dan Komunikasi</item>
+        <item>Lahan</item>
+        <item>UMKM</item>
+        <item>Kriminalitas</item>
+        <item>Program Pemerintah</item>
+        <item>Aset dan Bantuan</item>
+        <item>SDM Desa</item>
+        <item>Pariwisata</item>
+        <item>Pasar dan Angkutan Umum</item>
+        <item>Organisasi Kemasyarakatan</item>
+        <item>Informasi Umum</item>
+    </string-array>
 </resources>
